@@ -1,0 +1,15 @@
+{
+  "title": "EduAtlántico | Gestión Académica Offline",
+  "description": "Gestiona asistencia, calificaciones, observaciones y boletines escolares con acceso por roles y trabajo sin conexión para instituciones del Atlántico.",
+  "language": "es",
+  "customScripts": {
+    "headEnd": "<link rel=\"manifest\" href=\"/manifest.webmanifest\"><meta name=\"theme-color\" content=\"#1F4E79\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\">"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
